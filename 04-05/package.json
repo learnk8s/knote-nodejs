@@ -9,11 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "marked": "^4.0.10",
-    "minio": "^7.0.10",
-    "mongodb": "^3.5.2",
+    "express": "^4.17.2",
+    "marked": "^4.0.9",
+    "minio": "^7.0.9",
+    "mongodb": "^3.5.1",
     "multer": "^1.4.1",
-    "pug": "^3.0.1"
+    "pug": "^3.0.1",
+    "mongoose": "1.4.0",
+    "node.io" : "0.3.3",
+    "jquery"  : "1.5.1",
+    "jsdom"   : "0.2.0",
+    "cron"    : "0.1.2"
   }
 }
